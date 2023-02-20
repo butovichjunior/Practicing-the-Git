@@ -1,1 +1,1 @@
-golos psina
+const golosPsina = 228;
